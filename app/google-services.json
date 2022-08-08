@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267285598400",
+    "project_id": "citizen-science-8da75",
+    "storage_bucket": "citizen-science-8da75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267285598400:android:38fb77553aca123391dd25",
+        "android_client_info": {
+          "package_name": "com.example.citizen_science"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267285598400-lpqacggsc3oejr1h9v2sakggoegqgknp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn49Pnj2PpOaW8cMI88WSf6ltoiwm7LiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267285598400-lpqacggsc3oejr1h9v2sakggoegqgknp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

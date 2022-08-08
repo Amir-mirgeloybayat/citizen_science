@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">citizen_science</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="resultString">\"No results to view.\"</string>
+    <string name="survey_info">What are these?\n\nSpotter:\nA SPOTTER type survey takes a list of trackable items - anything you may want to count - and allows multiple users to simultaniously \"spot\" and count these items.\n\nMulti-Choice:\nA MULTI-CHOICE type survey is a series of questions that have a set of options to choose from. \n\n When creating these surveys, you will be able to add and remove different questions, options, or trackables depending on what type of survey you are creating.</string>
+    <string name="infomation">information on survey types</string>
+</resources>
