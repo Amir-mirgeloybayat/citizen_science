@@ -5,4 +5,4 @@ Surveys come in two forms: Spotter, and Multiple Choice. Spotter surveys present
 Users can create and login to user accounts within the app, authenticated by password. A user's authentication state will be remembered from session-to-session, until they specifically choose to log out. Authentication (alongside the survey data itself) is handled through Google's Firebase platform.
 
 
-[Youtube video of the app's functionalities] (https://www.youtube.com/watch?v=-C6G-fh7wlU)
+[Youtube video of the app's functionalities](https://www.youtube.com/watch?v=-C6G-fh7wlU)
